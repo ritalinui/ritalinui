@@ -1,8 +1,15 @@
-# 🔥 Ripex
+**Hey There!**
 
-**`Software Engineer (Developer/Creator)`**
+I’m Ripex, an independent software engineer, full-stack developer, and creator.
 
-I am an independent full-stack developer and content creator. All coding projects are built from scratch, from planning and design to solving real-life problems with code. All video content is built in the same way, from the idea and planning to the finalization of the content with artistic touches. I publish this content on my YouTube channel “[[**Ripex**](https://www.youtube.com/@ripexv)]” to more than 30 subscribers. Normally I like to use plain (vanilla) code, but I try and learn all the frameworks to be suitable for today's world. I am actively using svelte and typescript at the moment.
+I like to build things from the ground up — whether it’s an app, a tool, or a random idea that pops into my head.
+
+You can find most of what I build on my YouTube channel “[[**Ripex**](https://www.youtube.com/@ripexv)]”
+where I share my projects and a bit of my creative process.
+
+These days I’m mostly working with Svelte, TypeScript, and vanilla JavaScript, but I’m always exploring new stuff.
+
+If it sounds interesting, I’ll probably make it real.
 
    <p align="left">
       <a href="https://www.youtube.com/@ripexv?sub_confirmation=1">
